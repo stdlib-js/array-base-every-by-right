@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-every-by-right",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test whether all elements in an array pass a test implemented by a predicate function, iterating from right to left.",
   "license": "Apache-2.0",
   "author": {
