@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import everyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-every-by-right@esm/index.mjs';
+import everyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-every-by-right@v0.2.1-esm/index.mjs';
 ```
 
 #### everyByRight( x, predicate\[, thisArg] )
@@ -144,7 +144,7 @@ var cnt = context.count;
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 var isPositiveInteger = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-positive-integer' ).isPrimitive;
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@esm/index.mjs';
-import everyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-every-by-right@esm/index.mjs';
+import everyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-every-by-right@v0.2.1-esm/index.mjs';
 
 var x = discreteUniform( 10, 0, 10, {
     'dtype': 'int32'
